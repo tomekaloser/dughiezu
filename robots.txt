@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ookaovomik.mieruko.cn/sitemap.xml
